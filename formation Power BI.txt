@@ -1,0 +1,16 @@
+Power query: pour le nettiyage de données et l'adaptation a l'analyse
+Dans powert query c'est le langage "M" qui est utilisé
+Power query ne modifie pas les fichiers sources
+
+PREMIER LAB:
+ 1. IMPORT DES DONNEES DANS POWER BI
+- A partir d'un fichier Excel
+- A partir d'un fichier CSV
+- A partir d'un dossier
+
+ 2. PRRPARATION DES DONN2ES DANS POWER QUERY
+- Changer les types de données des colonnes
+- Supprimer/ renommer des colonnes
+- Ajouter des colonnes (conditionnelle et a partir d'exemples)
+- Combiner des requetes par ajout
+
